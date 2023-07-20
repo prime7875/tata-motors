@@ -38,6 +38,9 @@ Before running the code or using this project, ensure you have the following pre
 Installation
 
 1. Clone this repository to your local machine using:
+   
     git clone https://github.com/prime7875/unsupervised-learning-tata-motors.git
+   
 2 . Install the required Python libraries:
+
    pip install library_name
