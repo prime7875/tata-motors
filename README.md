@@ -9,20 +9,20 @@
 - [Results](#results)
 
 ## Introduction
-Welcome to the "Unsupervised Learning on TATA MOTORS Share" project! This project aims to apply unsupervised learning techniques to analyze the historical stock data of TATA MOTORS and gain insights into its behavior and patterns. By utilizing unsupervised learning algorithms, we can uncover hidden structures and trends within the stock price movement, clustering similar patterns, and exploring relationships between different trading sessions.
+Welcome to the "Reinforcement Learning on TATA MOTORS Share" project! This project aims to apply Reinforcement learning techniques to analyze the historical stock data of TATA MOTORS and gain insights into its behavior and patterns. By utilizing Reinforcement learning algorithms, we can uncover hidden structures and trends within the stock price movement, clustering similar patterns, and exploring relationships between different trading sessions.
 
 ## Objective
-The primary objective of this project is to use unsupervised learning algorithms to:
+The primary objective of this project is to use Reinforcement learning algorithms to:
 - Apply unsupervised machine learning on TATA MOTORS stock.
 
 ## Methodology
 To achieve the objectives mentioned above, we employed the following steps:
 1. Data Collection: Gathered historical TATA MOTORS stock price data from reliable sources.
 2. Data Preprocessing: Cleaned and prepared the data for analysis, and ensuring consistency.
-3. Unsupervised Learning: Applied various unsupervised learning algorithms, including but not limited to:
+3. Reinforcement Learning: Applied various Reinforcement learning algorithms, including but not limited to:
     - DQN
     - Double DQN
-4. Analysis and Visualization: Interpreted the results obtained from the unsupervised learning algorithms and visualized them using plots.
+4. Analysis and Visualization: Interpreted the results obtained from the Reinforcement learning algorithms and visualized them using plots.
 
 ## Prerequisites
 Before running the code or using this project, ensure you have the following prerequisites installed:
