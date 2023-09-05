@@ -1,4 +1,4 @@
-# Unsupervised Learning on TATA MOTORS Share
+# Reinforcement Learning on TATA MOTORS Share
 
 ## Table of Contents
 - [Introduction](#introduction)
